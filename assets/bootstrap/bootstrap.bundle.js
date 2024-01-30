@@ -85,7 +85,6 @@
       return 0;
     } // Get transition-duration of the element
 
-
     let {
       transitionDuration,
       transitionDelay
@@ -96,7 +95,6 @@
     if (!floatTransitionDuration && !floatTransitionDelay) {
       return 0;
     } // If multiple durations are defined, take the first
-
 
     transitionDuration = transitionDuration.split(',')[0];
     transitionDelay = transitionDelay.split(',')[0];
@@ -200,7 +198,6 @@
    *
    * @see https://www.charistheo.io/blog/2021/02/restart-a-css-animation-with-javascript/#restarting-a-css-animation
    */
-
 
   const reflow = element => {
     // eslint-disable-next-line no-unused-expressions
