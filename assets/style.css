@@ -24,6 +24,10 @@ body {
 	font-size: 26px;
 }
 
+h1 span {
+	font-style: italic;
+	font-size:16px;
+}
 .nav ul {
 	display: flex;
 	list-style-type: none;
