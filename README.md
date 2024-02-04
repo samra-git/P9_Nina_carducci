@@ -1,4 +1,4 @@
-P9 NINA CARDUCCI
-scénario: "Vous êtes développeur freelance et vous décidez de proposer vos services d’optimisation SEO à de nouveaux clients. Pour ce faire, vous avez analysé plusieurs sites internet. Vous avez ensuite pris contact avec les administrateurs des sites qui peuvent être optimisés pour leur proposer vos services. 
+NINA CARDUCCI, photographe professionnel
+Photographe portrait et événementiel à Bordeaux, Nina se déplace également en un île de france afin d'immortaliser vos merveilleux moments. Possibilité de shooting, albums photos et retouches photo"
 
-lien en ligne:  https://samra-git.github.io/P9_Nina_carducci/
+Site disponible:  https://samra-git.github.io/P9_Nina_carducci/
